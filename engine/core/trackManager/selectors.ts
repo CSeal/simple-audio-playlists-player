@@ -1,0 +1,1 @@
+export const currentTrackIdSelector = state => state.trackManager.playingTrackId;

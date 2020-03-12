@@ -1,0 +1,4 @@
+export const LOADING_INIT_DATA: string = 'LOADING_INIT_DATA';
+export const  INIT_DATA_LOADED_SUCCESS: string = 'INIT_DATA_LOADED_SUCCESS';
+export const  INIT_DATA_LOADED_FAILURE: string = 'INIT_DATA_LOADED_FAILURE';
+
